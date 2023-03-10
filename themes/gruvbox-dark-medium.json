@@ -1097,6 +1097,14 @@
     // OTHERS
     "textLink.foreground": "#83a598",
     "textLink.activeForeground": "#458588",
-    "debugToolBar.background": "#282828"
+    "debugToolBar.background": "#282828",
+
+    // INLAYS
+    "editorInlayHint.background": "#454545",
+    "editorInlayHint.foreground": "#BBBBBB",
+    "editorInlayHint.typeBackground": "#454545",
+    "editorInlayHint.typeForeground": "#BBBBBB",
+    "editorInlayHint.parameterBackground": "#454545",
+    "editorInlayHint.parameterForeground": "#BBBBBB"
   }
 }
