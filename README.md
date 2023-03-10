@@ -12,13 +12,10 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadge.apphb.com/version-short/jdinhlife.gruvbox.svg?style=flat-square" alt="Version">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadge.apphb.com/installs/jdinhlife.gruvbox.svg?style=flat-square" alt="Installs">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://vsmarketplacebadge.apphb.com/rating/jdinhlife.gruvbox.svg?style=flat-square" alt="Ratings">
   </a>
 </p>
 
