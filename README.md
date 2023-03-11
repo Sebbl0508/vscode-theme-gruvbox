@@ -1,24 +1,3 @@
-<h1 align="center">
-  <br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-    <img src="https://raw.githubusercontent.com/jdinhify/vscode-theme-gruvbox/master/images/icon.png">
-  </a>
-  <br>
-  Gruvbox
-  <br>
-</h1>
-
-<h4 align="center">A port of Gruvbox theme to VS Code editor</h4>
-
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-  </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=jdinhlife.gruvbox">
-  </a>
-</p>
-
 ## About
 
 A [gruvbox](https://github.com/morhetz/gruvbox) theme including syntax highlighting and workbench & terminal colors.

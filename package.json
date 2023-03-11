@@ -29,10 +29,10 @@
     "color": "#3c3836",
     "theme": "dark"
   },
-  "homepage": "https://github.com/jdinhify/vscode-theme-gruvbox",
+  "homepage": "https://github.com/sebbl0508/vscode-theme-gruvbox",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jdinhify/vscode-theme-gruvbox.git"
+    "url": "https://github.com/sebbl0508/vscode-theme-gruvbox.git"
   },
   "contributes": {
     "themes": [
@@ -69,16 +69,14 @@
     ]
   },
   "__metadata": {
-    "id": "c6d564c4-ca8c-45ba-abf6-c85f2d1468d8",
-    "publisherDisplayName": "jdinhify",
-    "publisherId": "571210a8-f372-43c2-8b5a-018868d4ac96"
+    "publisherDisplayName": "sebbl0508"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
+    "@vscode/vsce": "^2.18.0",
     "ovsx": "^0.5.0",
-    "semantic-release": "^19.0.3",
-    "vsce": "^2.9.0"
+    "semantic-release": "^19.0.3"
   },
   "private": true,
   "scripts": {
